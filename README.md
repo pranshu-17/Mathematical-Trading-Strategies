@@ -40,12 +40,4 @@ The objective of this project is to explore and analyze different international 
    - Tested the strategy on a 10-year period using Indian equity data.
    - Documented the approach, including the rationale for indicator and pattern selection, limitations, and potential enhancements.
 
-## Repository Structure
-
-- `notebooks/`: Contains Jupyter notebooks with code for data analysis, indicator calculations, and strategy implementation.
-- `data/`: (Optional) Folder for storing raw and processed data files (add `.gitignore` if needed).
-- `docs/`: Detailed documentation explaining the methodology, results, and conclusions of the project.
-- `README.md`: Overview of the project and instructions for setup and usage.
-- `requirements.txt`: List of Python packages required to run the project.
-
 
